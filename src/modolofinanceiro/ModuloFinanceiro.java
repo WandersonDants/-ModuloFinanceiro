@@ -3,10 +3,9 @@
  * @author wanderson Dantas
  *  Data 21/04/16
  * Calculadora  financeira
- *  
+ *  Exemplo 
  */
 package modolofinanceiro;
-
 
 import java.util.Scanner;
 
